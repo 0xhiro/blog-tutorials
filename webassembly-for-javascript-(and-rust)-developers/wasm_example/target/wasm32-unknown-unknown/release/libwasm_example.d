@@ -1,0 +1,1 @@
+/Users/Steve/Desktop/blog-tutorials/webassembly-for-javascript-(and-rust)-developers/wasm_example/target/wasm32-unknown-unknown/release/libwasm_example.rlib: /Users/Steve/Desktop/blog-tutorials/webassembly-for-javascript-(and-rust)-developers/wasm_example/src/lib.rs
